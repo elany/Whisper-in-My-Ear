@@ -63,7 +63,7 @@ body {
   max-width: 500px;
   position: absolute;
   margin: auto;
-  margin-top: -400px;
+  margin-top: -350px;
   display: block;
   text-align: center;
   background-color: none;
@@ -152,7 +152,7 @@ audio {
 
   .description {
   max-width: 85vw;
-  margin-top: -300px;
+  margin-top: -250px;
 }
 
   .podfic p {
